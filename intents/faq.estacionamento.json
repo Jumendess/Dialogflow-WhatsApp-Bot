@@ -1,0 +1,35 @@
+{
+  "id": "2b733167-e47e-457b-b2cc-ef8013c5e4d3",
+  "name": "faq.estacionamento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O estacionamento está localizado no subsolo e fica aberto das 06:00 às 23:00. 🚗🕒\n\nO preço é de R$ 18,00 pelo período. 💵"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

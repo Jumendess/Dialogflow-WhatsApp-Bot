@@ -1,0 +1,46 @@
+{
+  "id": "abe1a2f2-6ca0-411e-adec-1dd55697acbe",
+  "parentId": "4cfd8b8f-1e4a-445b-93d1-04d5d9553377",
+  "rootParentId": "4cfd8b8f-1e4a-445b-93d1-04d5d9553377",
+  "name": "faq.avaliacoes - yes",
+  "auto": true,
+  "contexts": [
+    "faqavaliacoes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faqavaliacoes.faqavaliacoes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que legal, assim fica claro como você vai ser sair nesse semestre"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

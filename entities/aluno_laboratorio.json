@@ -1,0 +1,9 @@
+{
+  "id": "91ead05a-3178-4a7b-af88-c612b99a5b84",
+  "name": "aluno_laboratorio",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

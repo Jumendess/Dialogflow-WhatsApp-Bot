@@ -1,0 +1,40 @@
+{
+  "id": "4cfd8b8f-1e4a-445b-93d1-04d5d9553377",
+  "name": "faq.avaliacoes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "faqavaliacoes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Oi! 😊\n\nNão se preocupe, é muito fácil entender como as avaliações e notas funcionam.\n\nSua nota presencial tem peso 0.80 e a nota online tem peso 0.20. Basta multiplicar suas notas pelos respectivos pesos e somar os resultados.\n\nFicou claro para você como as avaliações funcionam?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

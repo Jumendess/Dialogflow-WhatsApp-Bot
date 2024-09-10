@@ -1,0 +1,23 @@
+[
+  {
+    "value": "hot-dog",
+    "synonyms": [
+      "cachorro quente",
+      "cachorro-quente"
+    ]
+  },
+  {
+    "value": "parmegiana",
+    "synonyms": [
+      "bife a parmegiana",
+      "file a parmegiana"
+    ]
+  },
+  {
+    "value": "spaguetti",
+    "synonyms": [
+      "macarrão",
+      "macarrão com molho"
+    ]
+  }
+]

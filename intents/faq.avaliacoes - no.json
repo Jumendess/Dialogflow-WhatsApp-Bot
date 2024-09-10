@@ -1,0 +1,46 @@
+{
+  "id": "722eee5f-c639-4506-bec2-0571b6b569ba",
+  "parentId": "4cfd8b8f-1e4a-445b-93d1-04d5d9553377",
+  "rootParentId": "4cfd8b8f-1e4a-445b-93d1-04d5d9553377",
+  "name": "faq.avaliacoes - no",
+  "auto": true,
+  "contexts": [
+    "faqavaliacoes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faqavaliacoes.faqavaliacoes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok, sem problemas procure então a secretaria e esclareça suas duvidas."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

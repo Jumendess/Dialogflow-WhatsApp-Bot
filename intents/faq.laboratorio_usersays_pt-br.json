@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e3e40083-f894-4a38-a21f-4abd4cb84882",
+    "data": [
+      {
+        "text": "o que posso usar no laboratorio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ed755c58-4957-4312-8d31-e7c2b71619d3",
+    "data": [
+      {
+        "text": "tenho que agendra o laborario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1504b5eb-795e-4068-88f1-f3af8cad52b5",
+    "data": [
+      {
+        "text": "que horas abre o laboratorio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41ba720c-662a-4a10-ba18-486ac6643297",
+    "data": [
+      {
+        "text": "onde fica o laboratorio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

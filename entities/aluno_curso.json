@@ -1,0 +1,9 @@
+{
+  "id": "7934178d-bc52-4f0c-b973-ce2371ae3ab2",
+  "name": "aluno_curso",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

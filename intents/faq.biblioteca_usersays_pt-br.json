@@ -1,0 +1,54 @@
+[
+  {
+    "id": "45230728-96ae-42f4-9d3c-611cd397a2a1",
+    "data": [
+      {
+        "text": "como chegar na biblioteca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "039c72c4-9ea0-42b7-be88-4a9357eb2331",
+    "data": [
+      {
+        "text": "como usar a biblioteca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "27d347e2-b60e-49aa-9ad1-8ce02aa67931",
+    "data": [
+      {
+        "text": "qual o horário de funcionamneto da biblioteca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a43620a2-539e-4c76-83ca-324f8dbdfed6",
+    "data": [
+      {
+        "text": "onde fica a biblioteca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

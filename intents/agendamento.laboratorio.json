@@ -1,0 +1,101 @@
+{
+  "id": "838f883b-9718-4f5c-a49c-4265e8cd7e4b",
+  "name": "agendamento.laboratorio",
+  "auto": true,
+  "contexts": [
+    "alunolaboratorio"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "alunolaboratorio",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bc0a2a12-c639-40c6-a4fa-1c547ad69b34",
+          "name": "nome-curso",
+          "required": true,
+          "dataType": "@aluno_curso",
+          "value": "$nome-curso",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "📚 Por favor, informe o curso que você está fazendo."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "009075a3-d449-4617-9e9b-4a8c8a9aa03b",
+          "name": "tipo-lab",
+          "required": true,
+          "dataType": "@aluno_laboratorio",
+          "value": "$tipo-laboratorio",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "🧪 Qual laboratório você gostaria de usar?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "99823ceb-4014-4a2b-98d8-07f7a3768282",
+          "name": "data-agendamento",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$data-agendamento",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "📅 Para quando você gostaria de agendar o laboratório?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Oi, tudo bem?\n\nPara você que está no curso $nome-curso e quer usar o laboratório $tipo, seu agendamento está confirmado para $data-agendamento."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

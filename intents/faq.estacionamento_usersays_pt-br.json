@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ad9753bb-0db3-4b73-947e-46de176c780b",
+    "data": [
+      {
+        "text": "Como funciona o estacionamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d50ea19e-c7dd-49bf-a2f1-754843066d2c",
+    "data": [
+      {
+        "text": "Onde fica o estacionamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b7414eb0-14e9-4193-992b-cd85ed662c1d",
+    "data": [
+      {
+        "text": "Aluno pode usar o estacionamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

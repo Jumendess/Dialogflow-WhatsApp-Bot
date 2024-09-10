@@ -1,0 +1,9 @@
+{
+  "id": "e98672f7-0d8d-4503-a818-cfb8c112fe40",
+  "name": "comidas",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

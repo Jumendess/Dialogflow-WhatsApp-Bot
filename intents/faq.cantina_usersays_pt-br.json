@@ -1,0 +1,54 @@
+[
+  {
+    "id": "5e6ca1e0-0cbd-413d-852b-f974556eb633",
+    "data": [
+      {
+        "text": "o que tem para comer na cantina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "890f354a-37fa-48e9-8a39-7d08cbf36fc4",
+    "data": [
+      {
+        "text": "como chego na cantina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8097471c-1b37-49b9-b795-ed27b428fcf5",
+    "data": [
+      {
+        "text": "onde e a cantina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "35e00649-c2fe-4f5a-b5aa-27bf82f3fb5f",
+    "data": [
+      {
+        "text": "onde fica a cantina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

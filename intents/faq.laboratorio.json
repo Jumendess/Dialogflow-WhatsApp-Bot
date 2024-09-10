@@ -1,0 +1,40 @@
+{
+  "id": "0034e2cc-d0e7-4e74-a7e9-c92714453ac3",
+  "name": "faq.laboratorio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "alunolaboratorio",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Oi! 🧪\n\nO laboratório fica no 6º andar e funciona de segunda a sábado, das 07:00 às 20:00. ⏰\n\nTemos todos os tipos de equipamentos para os cursos de:\n\nBiomedicina 🧬\nEngenharia 🔧\nMedicina 🩺\n\nVocê precisa fazer o agendamento para usar o laboratório. 📅"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
